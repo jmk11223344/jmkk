@@ -15,11 +15,10 @@
     <h1>24/8월13일 웹사이트</h1><br>
 
 
-    <h3>정명교는 최고다</h3>
-    <h4>나는 짱이다</h4>
+    <h3>여름방학 캠프</h3>
+    <h4>여름방학때 만듦</h4>
 
-    <iframe src="https://cdn.discordapp.com/attachments/1222900839761317928/1266414540686626847/ba9dd1d7344833f5.png?ex=66bc2233&is=66bad0b3&hm=cf33f514f737939859db4ad7b5a72ab1711dba5c574f1326aa98b362a6f3a7f1&"
-     width="1000px" height="1000px"></iframe>
+
      <br> <br>
 
 
@@ -32,7 +31,7 @@
         function vopen(){
             let w=window.innerWidth;
             let h=window.innerHeight;
-            document.getElementById('video').innerHTML = `<iframe width="${w-30}" height="${w/560*315}" src="https://www.youtube.com/embed/lU12lJeImOY?si=7eVylnwh8OmArYwZ"></iframe>`;
+            document.getElementById('video').innerHTML = `<iframe width="${w-30}" height="${w/560*315}" src="https://www.youtube.com/embed/6MsQ6VAQPd8?si=3NXBzscjFAqHCXWc"></iframe>`;
         }
         addEventListener("resize", (event)=>{});
         onresize = (event)=>{};
